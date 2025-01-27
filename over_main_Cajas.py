@@ -1,10 +1,5 @@
-import tkinter as tk
 import os
-# from sobreForms.formClienteAvz import FormularioClienteChatAvanza as FCli
-# from sobreForms.enfileitor import Enfileitor 
 from sobreForms.classCajasDraw import CajasDraw
-
-
 
 # mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 # El Menu de todo Esto mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
